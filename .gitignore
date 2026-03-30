@@ -1,0 +1,15 @@
+bin/
+cocos2d/
+obj/
+temp/
+library/
+local/
+settings/
+build/
+proj.win32/Debug.win32/
+proj.win32/Release.win32/
+*.sdf
+*.sln
+*.suo
+.vs/
+*.ipch
